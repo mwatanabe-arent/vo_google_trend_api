@@ -2,7 +2,7 @@ import requests
 import json
 
 subscription_key = "c76e37c678bb4c05b92a324a26103df4"
-search_url = "https://api.bing.microsoft.com/v7.0/search/"
+#search_url = "https://api.bing.microsoft.com/v7.0/search/"
 search_url = "https://api.bing.microsoft.com/v7.0/news/search"
 search_term = "野球"
 
